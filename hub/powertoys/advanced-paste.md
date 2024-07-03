@@ -102,7 +102,7 @@ Markdown output:
 
 ### Paste text with AI
 
-When you paste text with AI, the text is analyzed and formatted based on the context of the text and the prompt provided to the OpenAI call. This feature requires that an OpenAI API key be provided in the PowerToys settings, and that you have available credits in your account.
+When you paste text with AI, the text is analyzed and formatted based on the context of the text and the prompt provided to the OpenAI call. This feature requires that an [OpenAI API key](https://platform.openai.com/account/api-keys) be provided in the PowerToys settings, and that you have available credits in your account.
 
 > [!NOTE]
 > If you use this feature and see an error `API key quota exceeded`, that means you do not have credits in your OpenAI account and would need to purchase them.
